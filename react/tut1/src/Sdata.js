@@ -1,8 +1,8 @@
 const Sdata= [
     {
         sname: "DARK",
-        imgsrc:"https://source.unsplash.com/300x200/?netflix,dark",
-        title:" A Netflix original series",
+        imgsrc:"https://source.unsplash.com/300x200/?netflix",
+        title:" Netflix is a streaming",
         link: "https://www.netflix.com/in/",
     },
     {
@@ -18,14 +18,14 @@ const Sdata= [
         link: "https://www.netflix.com/in/",
     },
     {
-        sname: "DARK",
-        imgsrc:"https://source.unsplash.com/300x200/?dark",
+        sname: "Squid Game",
+        imgsrc:"https://source.unsplash.com/300x200/?Netflix,Squid",
         title:" A Netflix original series",
         link: "https://www.netflix.com/in/",
     },
     {
-        sname: "DARK",
-        imgsrc:"https://source.unsplash.com/300x200/?series,dark",
+        sname: "MAid",
+        imgsrc:"https://source.unsplash.com/300x200/?Netflix,Maid",
         title:" A Netflix original series",
         link: "https://www.netflix.com/in/",
     },

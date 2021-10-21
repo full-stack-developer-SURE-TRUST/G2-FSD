@@ -1,13 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import Netflix from './Netflix';
+import {add,sub} from "./Calc"
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+    <Netflix />
+    <h1 className="clac"> Calculator </h1>
+    <li>Sum of two no is : { add (2,4)}</li>
+    <li>Sum of two no is : { sub (2,4)}</li>
+      </React.StrictMode>,
   document.getElementById('root')
 );
 
